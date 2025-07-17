@@ -17,6 +17,13 @@ This repository contains two separate pipelines for Author Profiling tasks — o
 ├── bert_author_profiling.pt       # Fine-tuned BERT model
 └── README.md
 ```
+## 🔗 Download Trained BERT Model
+
+The pretrained BERT model used for author profiling (gender & age prediction) is available here:
+
+👉 [Download Model](https://drive.google.com/uc?export=download&id=1_F2jnMIDOBdpXh2VREDxsbeRpITG6sP7)
+
+> Make sure to place the downloaded file as `bert_author_profiling.pt` in your project directory before running the prediction script.
 
 ---
 
